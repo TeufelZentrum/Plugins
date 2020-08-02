@@ -1,4 +1,4 @@
-[Logo of TeufelZentrum] (https://github.com/TeufelZentrum)
+[!Logo of TeufelZentrum] (https://github.com/TeufelZentrum)
 # Plugins
 Hier seht ihr Plugins von TeufelZentrum!
 
