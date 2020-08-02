@@ -6,3 +6,6 @@ Hier sind Public ( öffentliche ) Plugins, die könnt ihr kopieren, oder was auc
 
 # Wie kann man die bekommen?
 Die Plugin Codes werden veröffentlicht, und evtl auch die phar datei!
+
+# Was ist in Arbeit?
+In Arbeit ist momentan, das /reload entfernt wird, /rename in besser, und /fly. Das ist ein anfang! :D
